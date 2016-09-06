@@ -6,7 +6,7 @@
     'description': """
 
     """,
-    'author': "Strong Apps",
+    'author': "Hanel Software Solution",
     'website': 'http://www.hanelsoft.vn/',
     'depends': ['web'],
     'data': ['templates.xml',
