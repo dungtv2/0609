@@ -6,13 +6,13 @@
     'description': """
 
     """,
-    'author': "Hanel Software Solution",
+    'author': "Strong apps",
     'website': 'http://www.hanelsoft.vn/',
     'depends': ['web'],
     'data': ['templates.xml',
              'security/show_fields_security.xml',
              'security/ir.model.access.csv'],
-    'price': 149.99,
+    'price': 199.99,
     'currency': 'EUR',
     'installable': True,
     'auto_install': False,
